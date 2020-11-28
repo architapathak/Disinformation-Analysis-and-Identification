@@ -1,0 +1,23 @@
+Robinhood cofounders and co-CEOs Baiju Bhatt and Vlad Tenev wrote a post on the stock-trading startup's blog addressing recent outages that impacted its more than 10 million user accounts.Users were locked out of Robinhood during wild market swings on Monday and parts of Tuesday, sparking a social media storm. The post cited "stress to its infrastructure" from an "unprecedented load."The cofounders said the $7.6 billion startup is investing in adding more redundancies to its infrastructure, and may experience additional brief outages. Click here for more BI Prime stories.
+
+
+Robinhood's cofounders posted a note on Tuesday night to the popular trading app's blog blaming recent system-wide outages that infuriated users on "stress to its infrastructure" from an "unprecedented load."Markets have been roiled by the global spread of coronavirus — stocks soared and then sank in the first two trading days of the week, with an emergency rate cut from the Federal Reserve on Tuesday adding to the chaos. Users were locked out of Robinhood during Monday's trading session, and issues continued on Tuesday. In a note written by cofounders and co-CEOs Baiju Bhatt and Vlad Tenev, the duo said the response to restoring service to the trading app, which has over 10 million user accounts, took "too long.""We now understand the cause of the outage was stress on our infrastructure — which struggled with unprecedented load. That in turn led to a 'thundering herd' effect — triggering a failure of our DNS system," the note said. "Multiple factors contributed to the unprecedented load that ultimately led to the outages. The factors included, among others, highly volatile and historic market conditions; record volume; and record account sign-ups."Got a tip? Contact this reporter via email at ddefrancesco@businessinsider.com, Signal (646-768-1650) or direct message on Twitter @dandefrancesco.
+
+
+The post went on to say that Robinhood is working to improve the resiliency of its infrastructure to meet the heightened load it has been experiencing. The startup, valued at $7.6 billion, is currently working to reduce interdependencies in its infrastructure in addition to investing in more redundancies, and the post said it may "experience additional brief outages."Robinhood users lashed out online at the trading app, which is popular amongst millennials, for the system-wide outages, complaining about not being able to make trades during the market turmoil. A Twitter account named Robinhood Class Action was created Monday and had over 6,300 followers as of Tuesday night. "We take our responsibility to you and your money seriously. We recognize that many of you have questions, and we are working to respond to them as quickly as possible," the post read. "Many of you depend on Robinhood for your investments, and we're personally committed to doing all we can to operate a stable service that's available when you need it the most."It's been a volatile few years for Robinhood, which in addition to raising hundreds of millions from investors has also faced its fair share of controversy. In December 2018 the startup had to quickly backtrack from an announcement it made for a planned cash management product after stating it would be SIPC insured despite not checking with the organization ahead of time. 
+
+
+In November 2019, some Robinhood users uncovered an "infinite leverage" glitch. Later that same month, Business Insider reported that Josh Elman, Robinhood's vice president of product left the company after less than two years in the role.According to a source familiar with the situation, the startup has not filled the role yet.The following month the Financial Industry Regulatory Authority fined the brokerage $1.25 million for not following "best execution" practices from October 2016 to November 2017. At the same time, industry incumbents such as Charles Schwab, Fidelity, TD Ameritrade, and E-Trade have dropped trading fees, announced plans to consolidate, and launched similar features as Robinhood.
+
+
+
+
+
+
+
+
+
+
+
+
+Robinhood's VP of product has left the buzzy stock-trading startup after less than 2 years on the job

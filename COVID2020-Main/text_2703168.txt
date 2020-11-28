@@ -1,0 +1,83 @@
+Two US residents who received treatment for coronavirus received bills exceeding $3,000, even though they don't have coronavirus.While coronavirus testing from the CDC is free, patients still have to pay staggering costs for hospital visits and other tests.It's a problem for the 27 million Americans without insurance, as well as insured Americans who face surprise billing or out-of-network charges.Half of American households have less than $4,500 saved — and unanticipated coronavirus medical costs could wipe out their savings.A bankruptcy lawyer told Business Insider that coronavirus could possibly lead to a rise in US bankruptcy cases.Visit Business Insider's homepage for more stories.
+
+
+Coronavirus is scary for Americans' health and wealth.Just ask Miami resident Osmel Martinez Azcue, who checked himself into the hospital for flu-like symptoms after arriving back in the US from a work trip to China. As first reported by The Miami Herald's Ben Conarck, Azcue was concerned he had been exposed to the novel coronavirus. He asked to first be tested for the flu before getting a CT scan to screen for coronavirus because of his limited insurance plan, Conarck wrote. He did have the flu, which meant no further testing for coronavirus. But the whole ordeal cost $3,270, according to a notice from his insurance company. The charges are in the same ballpark as Frank Wucinski's medical bill. As reported by Sarah Kliff for The New York Times, Wucinski was living in Wuhan, China, where the virus originated, with his wife, a non-US citizen who developed pneumonia that doctors think resulted from the disease the virus causes, COVID-19.The US government flew Wucinski and his daughter back to the US for mandated quarantining and coronavirus testing. While neither had coronavirus, Kliff wrote, the uninsured Wucinski was charged $3,918.
+
+
+
+
+
+
+
+Both patients thought their costs would be covered, according to previous reports and Azcue's interview with Business Insider, and both were charged, only to later be told of "errors" associated with their bills. A corrected administrative error brought Azcue's co-pay down to $1,400, he told Business Insider, and a hospital spokesperson told The Times that Wucinski's bill was sent in error and he would not have to pay.
+
+
+While these two individual cases can't be applied to every similar case nationwide, they do put American health care in the limelight — and Americans' ability to afford it. Coronavirus testing from the CDC is free, but coronavirus treatment at hospitals will probably cost youThe CDC — the only facility equipped to test for COVID-19 or designate other laboratories to do so — is not billing for testing. That means a patient who goes to the ER or urgent care for coronavirus treatment wouldn't incur a charge for COVID-19 lab testing. Under the CDC's broadened guidelines as of the first week of March, anyone who has flu-like symptoms can receive a coronavirus test if a doctor agrees.But as Azcue and Wucinski's cases prove, patients aren't off the hook for charges related to tests for other viruses or conditions, or the trip to the medical provider itself. How much a hospital stay would cost for a particular patient depends on what procedures are run and their insurance plan, if they have one. While exact procedures for a patient with suspected COVID-19 are unknown, typical health care costs point toward steep numbers. Medical documents verified by Business Insider broke down Azcue's charges, ranging from $1,261 for virus and flu testing to $819 for an ER stay, before co-pay. Wucinski told The Times his charges included a $2,598 ambulance trip and $90 for x-ray scans. According to estimates provided to Business Insider by healthcare cost database FAIR Health, possible procedures related to coronavirus treatments could range from $441 to $1,151 for an out-of-network ER visit (read more on the methodology here). 
+
+
+
+
+
+
+
+US health care poses specific challenges for coronavirusThis wide cost range reflects the particular challenges of US health care and its effect on personal finances.
+
+
+One of these challenges is that most Americans get insurance coverage through their employer, John Graves, PhD and associate professor at Vanderbilt School of Medicine, told Business Insider. These employment-based policies, he said, essentially try to put the brakes on unnecessary care and overutilizing services by creating barriers in the form of co-pays, co-insurance, and deductibles. The problem, Graves said, is that people can't always differentiate between necessary and unnecessary care. "They don't want someone showing up every time they have a fever and a sniffle," he said. "But the unique challenges of coronavirus is that it manifests as a fever and a sniffle."
+
+
+
+
+
+
+
+There's evidence that people cut back on care when faced with a deductible, he added. The average deductible for an individual who gets health insurance through work is $1,655. It's enough to cause 26% of US adults to put off or postpone getting health care for financial reasons, with 21% reporting they've skipped a recommended medical test or treatment for the same reason, according to a Kaiser Family Foundation report.The timing of coronavirus also doesn't help, Graves said. It's spreading early in the year, when most people haven't yet hit their deductible.Both uninsured and insured Americans should worryNot all US employers offer insurance, and some Americans are unemployed or are part of the gig economy and can't afford it. That leaves 27 million Americans without insurance.
+
+
+As Carl Gibson put it for the Guardian, this cohort is a "coronavirus timebomb." Of those ages 18 to 65 who are uninsured, 28% had trouble paying medical bills in the past year, according to a CDC report. That percentage drops to 18% for those with Medicare, and 11% for those with private insurance.Even those who do have insurance face two major issues, according to Graves. There's surprise billing, when you receive care in an in-network hospital but receive a higher bill than expected. That's because the facility bill may be in-network, Graves said, but the physician bill could be out-of-network.
+
+
+
+
+
+
+
+Surprise billing hits one in 6 ER or hospital patients, according to a KFF report. Graves said it's most prevalent in the ER and is common in pathology, a department he says might be part of a treatment course for coronavirus.The other issue is if your in-network hospital is at capacity and diverts you to an out-of-network facility, Graves said. Currently, the Affordable Care Act caps out-of-pocket spending at $8,700 for patients whose care comes from in-network providers — financial protections that don't exist if you find yourself at an out-of-network facility. While some insurance plans have out-of-network benefits that might cover some of these costs, he said, a bill here could still exceed $10,000.Coronavirus could cause some Americans to go bankruptThe possibility of staggering coronavirus treatment costs in the US health care system spells a grim situation for the typical American.
+
+
+Per a SmartAsset analysis of Federal Reserve data, half of American households had $4,500 or less in checking and savings accounts as of 2016. If these people need treatment for suspected coronavirus, they may not have enough saved to cover costs. A bill of that size could wipe out their savings entirely, or at the very least, put a huge dent in them.Consider Azcue, who earns a $55,000 base salary. "I consider myself lower middle class," he said, adding that he only graduated a year-and-a-half ago, has not had that kind of income for very long, and would likely not have been able to pay off the bill before then. He said paying off his $1,400 bill will be a struggle, although doable, but others aren't always so lucky. A study conducted by the American Journal of Public Health in 2009 found that 66.5% of the 1.4 million bankruptcies in the US are related to medical issues.It's worth noting that this study was published in the aftermath of the Great Recession, and the number of bankruptcies in the US have since declined to 767,721 in 2017, according to US court filings. More recent studies have differed on medical bankruptcy percentages, ranging from 26% to 57% of all bankruptcies. 
+
+
+
+
+
+
+
+Regardless of statistical debate, it all points to the effect of health care costs on many Americans. Medical debt is a strong driver of bankruptcy filings, attorney Simon Goldenberg of The Law Office of Simon Goldenberg, PLLC told Business Insider, sometimes caused by emergency situations which can be compounded if you're treated out-of-network.
+
+
+While some patients can work out payment plans, bankruptcy can sometimes be the most feasible solution for those who have high debt and a low income. "Even with a steady income, an emergency medical bill for thousands of dollars could be a struggle to tackle," he said.Goldenberg said he thinks coronavirus could potentially cause an increase in patients seeking bankruptcy relief. Both he and Graves said the uninsured and underinsured paying out-of-network will struggle the most with financial repercussions. While those without employment-offered insurance are often younger adults in their 20s, Graves added, it's a group where coronavirus doesn't seem to be as severe.But patients who do test positive for coronavirus have more than medical costs to worry about, especially since there's a quarantine period that could limit their ability to work, possibly resulting in loss of earnings. "The hardship in paying those bills could be compounded if the patient is required to undergo extensive recovery, precluding their return to regular employment," Goldenberg said. Politicians are trying to make treatment more affordableHospital trips for suspected coronavirus infections could indebt or bankrupt some Americans, but avoiding treatment for financial reasons could potentially amplify the spread of the virus.To prevent either from happening, politicians are trying to implement changes. New York Governor Andrew Cuomo issued a directive requiring health insurers in New York to waive cost-sharing associated with getting tested for the novel coronavirus. Rep. Ruben Gallego is working to introduce a bill that will grant automatic eligibility to every American for emergency Medicaid coverage of testing and treatment costs for COVID-19.
+
+
+
+
+
+
+
+Azcue is hopeful his story will spark changes in his community, state, and the country. His story isn't about him, but "about the healthcare system for the lower middle class of US citizens, especially in a national emergency situation," he said.
+
+
+Asked if he would get tested again knowing the costs, Azcue said yes, but that he wouldn't judge anyone who decided not to.
+
+
+
+
+
+
+
+
+
+
+
+
+Getting treated for coronavirus could cost more than $3,000 — and it might make some everyday Americans broke

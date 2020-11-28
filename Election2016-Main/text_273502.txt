@@ -1,0 +1,51 @@
+( function() {
+			var func = function() {
+				var iframe = document.getElementById('wpcom-iframe-429a200411c55e044be65fb5022955eb-24588526-5302483')
+				if ( iframe ) {
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-429a200411c55e044be65fb5022955eb-24588526-5302483'
+						}, "https:\/\/tcprotectedembed.com" );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'tcprotectedembed.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )(); Facebook’s issues with viral false news reports dominated headlines this week, so naturally it came up as a key topic of discussion when I spoke to TechCrunch’s special projects editor and internet culture reporter Jordan Crook on this week’s episode. The sheer scope of the issue is something that becomes very apparent as we found out in talking things through. We also cover the union of FanDuel and DraftKings into a single online fantasy sports betting platform powerhouse, since Jordan’s a big fan of fantasy sports (I’ll stick to just LOTR-style fantasy, thanks very much). The issue isn’t really whether the two pairing up is better for either; it’s the nature of the business model itself, and whether there isn’t something ethically unsettling about the whole proposition. Fair warning: this is a pretty heavy episode, because we’re all still feeling a little raw after the U.S. election. But it’s honest, which is more than you can say for a lot of headlines that got plenty of shares during the election. You can listen via the stream embedded above, or check us out and subscribe on iTunes (and leave a review), or in your podcast player of choice.

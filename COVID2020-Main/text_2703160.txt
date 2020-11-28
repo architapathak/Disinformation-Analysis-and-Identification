@@ -1,0 +1,35 @@
+This story is available exclusively on Business Insider Prime.
+ Join BI Prime and start reading now.
+ 
+
+
+A survey of 200 healthcare IT professionals, conducted by the Ponemon Institute and sponsored by password-security company Keeper Security, shows less than half of healthcare organizations have a plan for responding to a hack. It also shows that more than half of the world's healthcare organizations were hit with a cyberattack in the past year.The first ransomware attack ever was against healthcare organizations during the AIDS crisis – an eerie precursor for today's healthcare pros bracing for a possible coronavirus pandemic. Deaths from heart attacks increase in the three years after a cyberattack as IT staffs struggle to adopt preventative measures, researchers have found.Visit Business Insider's homepage for more stories.
+
+
+More than half of healthcare organizations around the world were hit with a cyberattack in the past year, new research shows – presenting another challenge to hospitals preparing for a possible coronavirus pandemic. The survey of more than 200 healthcare IT staff, conducted by the Ponemon Institute and sponsored by password-security company Keeper Security, also found that for most hospitals, cyberattacks over the past year have gotten more sophisticated and difficult to respond to. Into this complex and difficult scenario the coronavirus has brought new demands that hospitals be prepared for increased strain on their operations. The virus outbreak that originated in Wuhan, China, has killed more than 3,200 people and infected more than 94,000. Many healthcare organizations scrambling to address this risk are not prepared for the possibility of a cyberattack, the research found. "Cybercriminals are notorious for striking during times of chaos," says Darren Guccione, CEO of Keeper Security. "The situation with coronavirus has patients, prospective patients and healthcare providers in an altered state.  Thus, normal IT operations in a healthcare facility may be understaffed or acutely focused on patient processing instead of pervasive threat monitoring." Less than half of the healthcare cybersecurity teams polled have a plan for responding to a cyberattack. This lack of readiness may present a key vulnerability as coronavirus surges. The Department of Health and Human Services warned last month about an increase in official-looking emails related to the virus that encourage healthcare workers and the public to click on links or download malicious attachments. 
+
+
+Sixty-eight percent of the healthcare IT staffs hit with a cyberattack said they experienced phishing attacks — attempts to target users and trick them into revealing their passwords — which often lead to costly ransomware attacks with many lingering problems. Ransomware's historic roleRansomware, which seizes records while demanding payment to unlock them, has cost healthcare organizations more than $160 million in ransom payments since 2016, according to a report last month from data company Comparitech.In light of coronavirus and other global issues, attacks locking up patient records may have an even more dangerous impact soon, experts say. "We expect to see a rise of targeted ransomware attacks this year against hospitals in developing countries," says Yury Namestnikov, security researcher at Kaspersky. "These could be disastrous. Loss of access to patient records or other data can halt patient diagnostics and even disrupt emergency response."Healthcare has a long and painful history with ransomware, which was invented with an attack on medical organizations in 1989 during the AIDS epidemic. Joseph Popp, an AIDS researcher distributed diskettes infected with a computer virus in a still-unexplained attack that was so new at the time there were "no laws to even deal with this type of case," according to a historical report by cybersecurity firm Palo Alto Networks. 
+
+
+
+
+
+
+
+Responding to hacks brings deadly stress The strain that cyberattacks put on hospitals can be deadly. Researchers at Vanderbilt and the University of Central Florida found last year that hospitals suffering a hack experienced 36 additional deaths per 10,000 heart attacks per year after data breaches, as security staff implemented new systems and procedures that slowed staffs' ability to perform key tasks such as electrocardiogram tests. 
+
+
+"We found that following a breach, time-to-EKG and mortality rates both rose, and continued to rise for about three years before tapering off," said Eric Johnson, dean of Vanderbilt University's Owen Graduate School of Management.There are a rash of financial costs to healthcare cyberattacks, as well. The Keeper study found that data breaches in healthcare resulted in an average of 7,202 patient and employee records lost or stolen and came with an average cost of $1.8 million due to disruption of normal operations. Financial impact gets even thornierAnd it gets worse. While the notorious Maze ransomware group publicly posts healthcare records it seizes, patients are filing class-action lawsuits that accuse healthcare companies of putting their data at risk. These struggles have caused hospitals to default on bond agreements, and scramble to stabilize finances.  Unlike cyberattacks on large financial institutions or credit bureaus, hacks of hospitals seem to hit home with average people in a visceral way. No one wants a hospital's procedures to lock up when they or a loved one are in a hospital bed. Perhaps that's why cyberattacks on healthcare made prime-time television in 2017, when "Grey's Anatomy" depicted a ransomware attack that a hospital intern was able to banish with a few taps on a laptop. Hospitals may wish it were that easy.
+
+
+
+
+
+ Featured Digital Health Articles:
+ - Telehealth Industry: Benefits, Services & Examples
+ - Value-Based Care Model: Pay-for-Performance Healthcare
+ - Senior Care & Assisted Living Market Trends
+ - Smart Medical Devices: Wearable Tech in Healthcare
+ - AI in Healthcare
+ - Remote Patient Monitoring Industry: Devices & Market Trends

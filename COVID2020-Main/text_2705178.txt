@@ -1,0 +1,40 @@
+New research shows that Chinese companies offering surveillance technologies— including two firms on a US trade blacklist — are set to exhibit at a major US security trade show later this month.Hikvision and Dahua were placed on the list by the Department of Commerce in 2019 because of their implication in the persecution of the Uighur people in Xinjiang.Two companies with close ties to Huawei, the firm that has been blacklisted by the US since May over worries about alleged ties to China's government, are also set to attend the trade show.The number of Chinese companies exhibiting would have been much higher had it not been for the coronavirus outbreak, which forced many exhibitors to pull out of the conference.The researcher Sam Woodhams said the companies' presence at the trade show would suggest that recent US efforts to sanction Chinese tech firms have fallen short.Visit Business Insider's homepage for more stories.
+
+
+Chinese surveillance companies blacklisted by the US are openly touting their technologies to the American and international market, despite allegations of human-rights abuses and snooping.A new report from the security researcher Samuel Woodhams at Top10VPN says several Chinese companies, including two on the US Department of Commerce's official trade blacklist and two more with close links to Huawei, are due to exhibit at a major US trade show later in March.American companies are forbidden from doing business with blacklisted companies unless they have a special license from the government.The International Security Conference and Exposition West is scheduled for March 17 to 20 in Las Vegas and claims to be hosting over 1,000 exhibitors and brands.Hikvision and Dahua have been implicated in Uighur oppression in ChinaThe American subsidiaries of Hikvision and Dahua are set to exhibit at the event. The two Chinese video-surveillance giants were placed on the Department of Commerce's entity list in 2019 over allegations that they were involved in human-rights abuses in Xinjiang, where the Chinese government has pursued a campaign of imprisonment and persecution against the predominantly Muslim Uighur minority.
+
+
+Woodhams' research found that Dahua is not only scheduled to appear at the trade show but has one of the biggest stands available. A press release on ISC's website said Dahua would tout "a Wi-Fi-enabled video doorbell, floodlight camera, and mini camera."Hikvision, meanwhile, will be touting a camera with "thermal imaging-based fire detection, temperature monitoring, cigarette smoking detection," and other features, another press release said.
+
+
+
+
+
+
+
+The companies' presence at ISC raises questions about how effective the US ban is and how it applies to US subsidiaries of Chinese companies.Woodhams told Business Insider: "That several companies with problematic human-rights records will be free to promote their invasive technologies to US security professionals raises significant concerns about creeping surveillance across the US and attests to the lack of human-rights safeguards in the security industry more broadly."Further, the number of Chinese companies and their American subsidiaries that continue to feature in US security trade fairs suggests that recent efforts to decouple the American and Chinese technology sectors have had limited success."
+
+
+Dahua has seemed to revel in the Commerce Department's sanction. According to the video-surveillance researchers IPVM, Dahua Vice President Zhu Jiangming told the press in the week after the blacklisting that "the fact that we are under the US control list shows that we indeed have a strong technological capability."Neither Dahua nor Hikvision responded to requests for comment from Business Insider.A spokesman for the Bureau of Industry and Security, the section of the Commerce Department that deals with the entity list, told Business Insider that participants at a trade conference would have to comply with the export restrictions imposed on companies on the list.The spokesman didn't give further clarification, but this suggests that blacklisted companies are free to advertise their wares in the US as long as they don't strike deals with American businesses without approval.
+
+
+
+
+
+
+
+Darren Byler, an anthropology researcher and expert on Uighur issues, told Business Insider that Dahua and Hikvision played a pivotal role in China's crackdown on the country's minority Uighur population.
+
+
+He said both were paid hundreds of millions of dollars by China to build video-surveillance systems — Hikvision has been awarded at least $293 million in government contracts, while Dahua has received over $900 million."Hikvision and Dahua are two of the key technology firms responsible for the surveillance systems that have been built in Xinjiang," he said. "These systems produce a web of face- and voice-recognition-enabled surveillance cameras, face-recognition checkpoints at jurisdictional boundaries, license-plate-recognition technologies, command centers, data-storage centers, data-interface platforms, portable data-assessment tools, and rapid-response capacity building."2 firms with close connections to Huawei are exhibitingTwo companies with close ties to the phone- and equipment-maker Huawei, the highest-profile Chinese company to be placed on the entity list by the Trump administration, are also set to exhibit at ISC.The US and Huawei have been engaged in a fierce political dogfight for more than a year. The Trump administration has heavily lobbied allies to freeze out Huawei's 5G equipment from national networks, alleging the company spies for the Chinese government. Huawei has consistently denied the allegations.
+
+
+
+
+
+
+
+The first of the Huawei-linked companies is a wireless-tech company called Quectel. Quectel has been an official partner of Huawei's since at least 2017, but in February the two companies announced a partnership along with several other companies to "launch 5G industrial modules."
+
+
+The second is the telecoms company Fanvil, which in 2014 announced a partnership to give its products "full interoperability" with Huawei services.The list of Huawei-linked companies would have been higher, Woodhams reported, but most Chinese companies that were originally set to appear at ISC pulled out because of the coronavirus outbreak.Neither Quectel nor Fanvil responded to requests for comment from Business Insider. The conference organizer, Reed Exhibitions, was not immediately available for comment.

@@ -1,0 +1,89 @@
+Authorities across China have been using new hi-tech surveillance methods to monitor citizens in an attempt to stem the coronavirus outbreak.They include flying drones to make sure people are wearing masks, facial-recognition cameras, and making people download software to track their location.This kind of surveillance is already present in Xinjiang, the homeland of the Uighurs, where China operates an invasive, 21st-century police state.Experts told Business Insider that this mass data collection could stay the norm even after the coronavirus becomes less of a public-health threat.Visit Business Insider's homepage for more stories.
+
+
+China has dramatically ramped up its data-collection efforts in its efforts to stem its coronavirus outbreak, which has infected more than 80,000 people in the country alone.In pursuit of this, authorities have rolled out a slew of new tactics to monitor and track potential cases.The Chinese government has long been criticized for its invasive use of technology, and the coronavirus outbreak has appeared to strengthen its case for harvesting more data — a situation experts fear could become permanent.The methods include:Monitoring the populace via drones, which tell individual people to put on a mask or go indoors.New facial-recognition software that measures people's temperatures and identifies them based on body and facial data — even when they are wearing masks.Checking phone data to see if people have come within close range of a coronavirus patient.Giving police helmets fitted out with facial-recognition and thermal cameras, so they can identify and catch people with a fever.Making people download software that uses their Alibaba accounts to estimate their health, gives them a color-coded risk of contagion, and shares it with law enforcement.
+
+
+—Paul Mozur 孟建国 (@paulmozur) March 2, 2020—Paul Mozur 孟建国 (@paulmozur) March 2, 2020After bearing the brunt of the coronavirus outbreak, China appears to be undergoing a turnaround, in which people are getting better faster than they fall sick.However, experts fear that this mass data collection could continue after the coronavirus is less of a public-health threat, and becomes a permanent addition to the Communist Party surveillance's state.(It's worth noting that these technologies have so far been implemented piecemeal in some regions, and it's too early to tell whether they actually helped China stem an outbreak.)But this kind of surveillance state already exists in in one part of China: Xinjiang, a northwestern Chinese region home to the oppressed Uighur population.
+
+
+
+
+
+
+
+The Chinese state sees Islam — the religion of most Uighurs — as a threat, and conflating it with religious extremism. China has in the past few years effectively set up a police state in their homeland.
+
+
+Almost a million Uighurs have been detained in prison-like re-education camps over alleged infractions as minor as going to other countries, growing a beard, and owning computer files in the Uighur language. (Many of these so-called crimes were laid out recently in a series of leaked documents called the Karakax List.)Authorities there have installed almost a million facial-recognition cameras to record crimes, and even anticipate them.They have forced people to download smartphone apps that spy on what they're sharing with their friends, and have posted QR codes outside Uighurs' homes so that officials tracking them can download information quickly on who is inside.(It also uses analog measures to monitor Uighurs, which includes having Communist Party officials sleep in the same house as Uighur families who have relatives in re-education camps.)
+
+
+
+
+
+
+
+Though this sort of surveillance is part of the norm in Xinjiang, in the rest of China it is not. Many citizens are getting their first taste of what living under China's police state is like during this coronavirus outbreak.
+
+
+"In terms of the actual technologies that are being used, they're using the same ones in Xinjiang," said Darren Byler, a technology expert specializing in Xinjiang.Chinese authorities had long been plugging hardware and software into people's phones to flag sensitive keywords — "but now it's going beyond looking for things related to religion and looking for things related to travel, and looking at people's social network and connections to Wuhan," Byler told Business Insider.Referring to the Alibaba health app, New York Times reporter Paul Mozur tweeted: "The color codes, checkpoints, and phone searches all smack of policies carried out in Xinjiang. People in China's east aren't used to it."Maya Wang, a senior China researcher at Human Rights Watch, told Business Insider: "The use of these systems is taking place without privacy law or surveillance law that effectively protects people's privacy rights, to allow them to challenge such designation or the imposition of quarantine.""However, I would also point out some obvious differences — people elsewhere in China still can post about their situation online, can still complain to families and friends about their suffering, whereas in Xinjiang people have much, much less power."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Once things are built ... you can't put them back in the box'Experts now say that this surveillance could become the norm even after the coronavirus threat weakens.
+
+
+"Once you have the tools in place, you'd probably continue to use them, and you can expand them and use them for other purposes," Byler told Business Insider."From the US context, the PATRIOT Act, Homeland Security, and countering violent extremist programs that the US put in place initially after 9/11 were focused on Muslim Americans, but have now been radically expanded to look at asylum seekers of all types, like people coming across the southern border into the US.""Once these systems are in place, once things are built, once they're designed — you can't put them back in the box, and once political leaders see the utility of them and see that they can extend their power, extend their control, then of course they will continue to use them and use them in new ways," he said.
+
+
+
+
+
+
+
+Wang added that the Chinese Communist Party had long conducted mass surveillance, and that it has been expanding those measures as the country became more prosperous."You can still see how major events like the [2008 Beijing] Olympics and Shanghai Expo provided opportunities for the Chinese police to implement more intrusive security measures and more funding for surveillance and social control," she told Business Insider.
+
+
+"Some of these measures then later became more permanent features of Chinese policing. I suspect some of the measures surrounding the coronavirus outbreak will continue to be implemented even after it is over."
+
+
+
+
+
+
+
+The Communist Party likely has good reason to want to exert more control over its populace.The outbreak has sparked the anger of numerous citizens over an apparent government cover-up in the early stages of the outbreak, with many calling for democracy and freedom of speech.Last Sunday, the government rolled out a new internet law to ban all negative content, with definitions so vague that it could easily include news of the virus and criticism of the official response."Under President Xi, we've seen increasingly tightened censorship over time both on the internet, and over the press," Wang told Business Insider. "I expect this trend to continue."
+
+
+
+
+
+
+
+South Korea, the worst-infected country outside China, has also faced criticism for its use of technology during the outbreak.
+
+
+Authorities there have been sending citizens "emergency guidance texts" describing newly-diagnosed patients, unexpectedly revealing their location history and other personal information.Russian officials in Moscow are also using facial-recognition technology to catch those escaping quarantine and raiding the homes of possible carriers, Reuters reported.That's not to say all the new technology being deployed during the coronavirus is inherently sinister, or could have sinister purposes.Major Chinese tech firms are investing heavily in the research of new vaccines, with Alibaba developing algorithms to quickly analyze CT scans for signs of the coronavirus. Baidu, a search engine, is offering some of its services to epidemiology labs to aid their research, according to CNBC."It's hard to see anything negative about that, being able to diagnose disease more quickly and with more accuracy," Byler said, referring to Alibaba's CT-scan technology.
+
+
+
+
+
+
+
+"It's the population-management tools — the ones that are coercive and that are doing unauthorized or nonconsensual surveillance — that I think are really problematic and really should be abolished in almost every case."
+
+
+Whether or not coronavirus-surveillance tools turn into long-term human-management programs remains unclear.But, given the Communist Party's historical obsession with population control, it could well become a the reality.Read more:A senior Chinese official was heckled while visiting Wuhan, showing how much the coronavirus has weakened the Communist Party's grip on powerChina's unprecedentedly drastic response to the coronavirus saved hundreds of thousands of people from catching it, according to a WHO official who went thereMysterious automated calls, vanished relatives, and sinister Facebook comments: How China intimidates Uighurs who don't even live in the countryEverything we know about the coronavirus outbreak

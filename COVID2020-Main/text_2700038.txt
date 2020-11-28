@@ -1,0 +1,62 @@
+This story is available exclusively on Business Insider Prime.
+ Join BI Prime and start reading now.
+ 
+
+
+The coronavirus outbreak has left tech companies and cities confronting a difficult choice ahead of a packed calendar of important industry conferences and events.Many businesses organize product launches and other strategies around certain conferences, putting months of planning and resources into the effort.But conferences are particularly conducive to spreading viruses because they bring large crowds together in close proximity from many locations.Several major tech conferences, including the Mobile World Congress in Barcelona and Facebook's F8 developers' conference, have cancelled their events because of the coronavirus.  South By Southwest, the sprawling Austin festival that brings 400,000 together each March, says the show will go on, even as tens of thousands of people have signed a petition calling for it to be cancelled.Visit Business Insider's homepage for more stories.
+
+
+Hundreds of millions of dollars at stake, tens of thousands of people awaiting word on whether they will travel to a long-awaited work event, and a deadly virus spreading around the world. Welcome to the agonizing dilemma of conferences amid coronavirus concerns. On Monday, South By Southwest said it would carry on with the annual music and tech festival in Austin, Texas, even as several high-profile participants, including Facebook and Twitter, dropped out. Increasing the anxiety, Austin's CBS News affiliate announced Tuesday that the city was testing a patient that could be its first case of the deadly virus spreading around the world.South By Southwest is just the latest conference teetering between continuing on with fear and health risks looming, or cancelling to huge disappointments and financial losses as the result.Whether to stay the course and hope for the best, even as major participants drop out, or to call a "rainout" and cancel the event, potentially at the last minute, is a quandary facing businesses, city leaders and conference organizers and it often involves more than a simple financial cost-benefit analysis. Alla Valente, a security and risk analyst at Forrester Research, travelled from her home in New York to San Francisco last week amid worries about the coronavirus outbreak in order not to miss one of the cybersecurity industry's premiere events. 
+
+
+What she found at the RSA conference was not like the previous half-dozen RSA conferences Valente has attended in the past. Cybersecurity is a booming industry alive with threats and innovation, but it didn't feel energized this year. "You could feel the difference on the show floor and at networking events," she said. Three big corporate sponsors — IBM, Verizon and AT&T — had pulled out. Some networking and schmoozing moved offsite to cafes and hotels, limiting opportunities for chance encounters. The stock market meltdown and virus fears loomed in the background. Valente questioned whether the economic uncertainty and accompanying social awkwardness made it worthwhile for companies to attend."Why would you want to be in a position where your customers are asking you questions you don't have answers to?"The show must go on?Robert Siegel, an immunologist at Stanford University, says conferences are particularly conducive to spreading viruses. In fact, if you wanted to create the ideal system to spread something like the coronavirus, convening thousands of people from all over the world, packing them into a confined space where they shake hands and talk at close quarters, and then spitting them back out in different directions would be a good way to do it.
+
+
+"In terms of spreading respiratory viruses, this is greatly facilitated by close contact between large groups of individuals, and by people arriving from and dispersing to distant locations."As of Monday, the death toll of the coronavirus outbreak has surpassed 3,100, with more than 92,000 people infected. China, where the virus originated, has seen a drop-off in its rate of new cases, but the virus seems to be gaining momentum in other parts of the globe. The Centers for Disease Control continues to recommend avoiding people who are sick, avoiding touching your eyes, nose, and mouth, and washing your hands. 
+
+
+
+
+
+
+
+In the past few days more than 34,000 people signed a petition asking the governor of Texas and conference organizers to cancel South By Southwest. The sprawling festival brings more than 400,000 people to Austin every March for breakfast tacos, mingling and the latest in tech, gaming, music, and film — a cocktail that the petitioners say will almost surely leave certain city residents at risk of infection. Despite the outcry, the South By Southwest organizers announced Monday that "we are proceeding with the 2020 event with the health and safety of our attendees, staff, and volunteers as our top priority." Shortly after SXSW reaffirmed plans to persevere, Facebook announced that it would not participate, renewing doubt about the conference going forth. On Tuesday TikTok announced it was withdrawing, as social media companies led an increasing list of dropouts.
+
+
+Registered attendees for South By Southwest complained on Twitter Tuesday that they were being told they could not get refunds for virus-related cancellations, including a man from Brazil who included a screenshot of an email from the conference telling him that.South By Southwest says on its web page that it does not issue refunds "under any circumstances." It's not clear if that policy would apply should SXSW, as the festival is known, were to cancel the event. Representatives from SXSW did not immediately return requests for comment. Big dollars and big risksIt's easy to understand why event organizers and cities are hesitant to call off a big conference. South By Southwest estimates it brings some $350 million to Austin each year. San Francisco tourism authorities estimate conference-goers spend an average of $567 a day in the city. Cancelling an event means losing all that revenue. Reuters reported that cancelling Mobile World Congress cost the Barcelona economy some $500 million, and that insurance would not cover exhibitors' costs.Conferences can lose, too. Mathew Ross, a New York attorney who represents event insurers, has seen claims as high as $25 million from conferences that cancelled. But settling claims can be difficult in a situation like conferences face with the coronavirus. Cancelling might be a legitimate business decision for a conference, but that doesn't automatically mean the conference's financial loss is covered because policies address specific contractual situations. Was cancelling a judgement call, or a necessity? Could the conference have been postponed, as the Game Developers Conference was in San Francisco last week? "Fear of travelling is not necessarily covered," he says. 
+
+
+When big sponsors pull out, they can lose sponsorship fees of up to a quarter-million dollars, according to conference contracts. Cancelled non-refundable flights could add more to companies' losses. But crisis communications experts say financial losses can be preferable to the hit on a conference or company's reputation if it's perceived they put employees at risk. "With the current hype and level of public and media concern at the very moment, one would be taking a bigger reputational and even a financial risk by holding a conference now in an area prone to the coronavirus. Although the numbers still suggest that people will likely not be infected in most situations, the losses incurred with cancellation are far less than those if just one person gets infected, let alone if that person should pass," says Juda Engelmayer, president of HeraldPR, a New York firm that handles crisis communications.     Mobile World Congress, the giant telecom conference, set a precedent by cancelling the conference on February 12, less than two weeks before 100,000 were due to convene in Barcelona. At that time there had been around 1,100 deaths from the disease, which had reached around 45,000 known infections. A week later in San Francisco, the Game Developers Conference endured the same Prince Hamlet debate: To be or not to be, and the virus dominated the news and big sponsors withdrew. Attendees on Twitter discussed whether they could get their money back if they followed the big companies in dropping out. The conference wouldn't be the same without Sony, Facebook, and Microsoft — some of the major companies who announced they would skip the event – so why should the conference get to keep their money?
+
+
+
+
+
+
+
+On Friday, less than three weeks before the 30-year-old conference was scheduled to begin, organizers postponed the show until this summer. GDC issued a statement that was good news to those registered to attend: "If you are a currently registered paid passholder, you will be receiving an email about your registration status and any next steps regarding refunds, which conference and expo attendees will be receiving in full."
+
+
+The next best thing to being thereYou can't spread virus germs online, and some companies are exploring virtual alternatives. On Monday, Nvidia, the Silicon Valley graphics processing units (GPUs) company, cancelled the in-person part of a developers conference scheduled to bring 10,000 to San Jose the third week of March. The conference will continue its online sessions and issue refunds, the company said.On Monday Google Cloud canceled its biggest event of the year, Google Cloud Next, which was set to be held in San Francisco in April. The company said it planned to replace the in-person conference with "streamed keynotes, breakout sessions, interactive learning and digital 'ask an expert' sessions with Google teams."
+
+
+
+
+
+
+
+But while a virtual conference provides protection from health threats, it can't replicate the value of the meetings and schmoozing, planned and unplanned, that happen face-to-face. The crowds and cachet of certain conferences might not necessarily survive the shift to a virtual format. Computer engineer and open-source software evangelist Peter Czanik came to the RSA conference from Hungary and said, "I never considered staying at home. First of all, I did not want to abandon half a year of work. And I also considered the event as low risk."But, he acknowledged, the news from San Francisco seemed to reverberate back home. " Yes, my colleagues are worried. I was asked to work from home for two weeks, once I am back."
+
+
+
+
+
+ Featured Digital Health Articles:
+ - Telehealth Industry: Benefits, Services & Examples
+ - Value-Based Care Model: Pay-for-Performance Healthcare
+ - Senior Care & Assisted Living Market Trends
+ - Smart Medical Devices: Wearable Tech in Healthcare
+ - AI in Healthcare
+ - Remote Patient Monitoring Industry: Devices & Market Trends
+
+Get the latest Google stock price here.

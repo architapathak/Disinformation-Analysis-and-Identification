@@ -1,0 +1,79 @@
+The new coronavirus is primarily a respiratory illness, and it typically spreads via airborne droplets from an infected patient's coughs or sneezes.Viral particles can survive for a time on surfaces, but the coronavirus' lifespan on surfaces depends on various factors, like temperature and humidity.Some human coronaviruses, like SARS, can last for days on surfaces. But one expert says the new coronavirus is more likely to last "hours to a day or so."Here are some best practices for disinfecting surfaces.Visit Business Insider's homepage for more stories.
+
+
+The new coronavirus is a respiratory illness, which means it typically spreads via airborne droplets. When an infected person coughs or sneezes, droplets carrying viral particles can land on someone else's nose or mouth or get inhaled.But a person can also get the new coronavirus if they touch a surface or object that has viral particles on it then touch their mouth, nose, or eyes, according to the CDC. The exact lifespan of the virus on a surface — a subway pole, stairwell banister, or even money — depends on many factors, including the surrounding temperature, humidity, and type of surface.But the rough range is "likely hours to a day or so," Rachel Graham, an epidemiologist at the University of North Carolina, told Business Insider. How long the coronavirus survives on surfaces A study published this week in the Journal of Hospital Infection looked at the lifespans of other coronaviruses found in humans on various surfaces. The SARS coronavirus — at a temperature of 68 degrees Fahrenheit (20 degrees Celsius) — lasts for two days on steel; four days on wood and glass; and five days on metal, plastic, and ceramics. (The researchers also found that one strain of SARS lasted up to nine days on a plastic surface at room temperature.)SARS only survives between two and eight hours on aluminum, and less than eight hours on latex.
+
+
+According to Graham, these findings likely apply to the new coronavirus, since smooth, nonporous surfaces like doorknobs and tabletops are better at carrying viruses in general. Porous surfaces — like money, hair, and fabric — do not allow viruses to survive as long because the minute spaces or holes in those materials can trap the microbe and prevent its transfer, Graham said."Coins will transmit virus better than cash, but this shouldn't be a huge concern," she said. "Basic rule of thumb should be to consider money dirty anyway, because it is. It goes through too many hands not to be."
+
+
+
+
+
+
+
+Your smartphone, with all its glass and aluminum, can also carry viral particles.Graham said she recommends disinfecting your phone, "particularly if it travels to the bathroom with you."The surrounding temperature makes a big differenceThe recent study also revealed that spikes in temperature make a difference in the lifespans of coronaviruses. An 18-degree Fahrenheit jump, from 68 degrees to 86 degrees, decreased how long SARS lasted on steel surfaces by at least half.
+
+
+That's because some coronaviruses, including this new one, have a viral envelope: a fat-layer that protects viral particles when traveling from person-to-person in the air. That sheath can dry out however, which kills the virus. So higher humidity, moderate temperature, low wind, and a solid surface are all good for a coronavirus' survival, Graham said.
+
+
+
+
+
+
+
+This also explains why respiratory viruses are typically seasonal: Cooler temperatures help harden the protective gel-like coating that surrounds the particles.How to disinfect surfacesThe authors of the recent study noted that human coronaviruses could be "efficiently inactivated" on surfaces within one minute if they're cleaned with solutions containing 62%-71% ethanol alcohol, 0.5% hydrogen peroxide, or 0.1% sodium hypochlorite."We expect a similar effect against the SARS-CoV-2," they added. (SARS-CoV-2 is the official scientific name of the virus.)
+
+
+
+
+
+
+
+Graham said these surface disinfectants could even work within 15 seconds. But she added, "to get the kill rates advertised on the packaging, though, that usually involves waiting for several minutes — between five minutes and six minutes." 
+
+
+That duration is probably only essential, however, if you're cleaning a surface in an area inhabited by someone infected.Graham said the important thing when disinfecting a surface is getting the potential infectious dose of the virus below a level that will cause disease."Most commercial products labeled 'disinfectants' talk about a 99.9% kill rate," she said — that's certainly below the threshold that would make people ill, she added. But alcohol-based hand sanitizer, on the other hand, is not ideal for disinfecting hard surfaces because the alcohol content is not high enough.
+
+
+
+
+
+
+
+Hand sanitizer is meant to lower how much of the infection is on your hands "without stripping your skin of all its oils and moisture," she said. "Surface disinfectants — like Lysol, bleach — are better for surfaces."Stop touching your face, and wash your handsGraham emphasized the importance of washing your hands and not touching your face — those are the best ways to minimize your chances of  picking up the coronavirus from surfaces.
+
+
+The recent study concluded that if a person touches a surface on which the influenza A virus lives for 5 seconds, 32% of the virus living on that surface can transfer to their hands.
+
+
+
+
+
+
+
+"If you're about to eat, fix your makeup, play with the baby, etcetera, wash your hands," she said.She also suggested washing your hair if it gets sneezed on, even though the virus doesn't last very long on it.Of course, the coronavirus can't infect you through your hands, so if you never touch your eyes, nose, mouth, you can avoid infection. 
+
+
+
+
+
+
+
+But that's easier said than done.
+
+
+"Most humans touch their faces several hundreds of times per day, so it's still best to be aware of how clean your hands are," Graham said.Read more:The coronavirus has pandemic 'potential' as it spreads in South Korea, Italy, and Iran, according to WHOOne key indicator will tell us when the coronavirus outbreak is winding down — but we're not seeing it yetWhat to know about the coronavirus outbreak in 9 charts and mapsOne chart shows 11 countries' current coronavirus death rates, based on the known number of cases and deaths
+
+
+
+
+
+ Featured Digital Health Articles:
+ - Telehealth Industry: Benefits, Services & Examples
+ - Value-Based Care Model: Pay-for-Performance Healthcare
+ - Senior Care & Assisted Living Market Trends
+ - Smart Medical Devices: Wearable Tech in Healthcare
+ - AI in Healthcare
+ - Remote Patient Monitoring Industry: Devices & Market Trends

@@ -1,0 +1,198 @@
+The coronavirus outbreak spreading around the world comes 17 years after 2003 SARS outbreak.Dr. Leong Hoe Nam, an infectious disease doctor in Singapore, explained that country's approach to containing the virus and the lessons learned from SARS — a disease he himself contracted.Visit Business Insider's homepage for more stories.
+
+
+More than 50 countries have reported cases of the novel coronavirus, but one place that has wasted no time in making efforts to contain COVID-19 is Singapore.The government has a reputation for strictness and keeping things clean, especially when it comes to public health. The Ministry of Education even released a catchy tune to help students ward off the spread of germs.When COVID-19 first emerged, the country took some of the most aggressive measures to contain the spread without putting entire communities on lockdown, earning praise from the World Health Organization.Dr. Leong Hoe Nam is an infectious disease doctor at Mount Elizabeth Hospital in Singapore. He spoke with The World's host Marco Werman about Singapore's approach to containing the virus and applying the lessons learned from the 2003 SARS outbreak — a disease he himself contracted — to the present day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marco Werman: Singapore dealt with SARS some years ago [in 2003]. What are the challenges that Singapore faces now, with this new coronavirus?
+
+
+
+
+
+
+
+
+
+
+Leong Hoe Nam: SARS turned out to be a blessing for Singapore. We realized how infectious diseases spread and how we have to be on top of the curve, in terms of quarantining and surveillance, and being aware and having the diagnostic kits, as well as the healthcare workers all ready.That SARS experience has prepared us for the current epidemic. And if you look at it, Singapore is emerging out of this epidemic earlier than expected. We have controlled most cases and all of this comes from the roots from SARS. We actually see the government being proactive. We actually see the people being cooperative with the government.
+
+
+
+
+
+Marco Werman: As of this morning, there haven't been any fatalities from COVID-19 in Singapore.
+
+Leong Hoe Nam: No, not yet. I thank God every single day.
+
+ 
+
+
+
+
+
+
+Marco Werman: So I want to learn more about those lessons Singapore has learned from SARS. I gather Singapore has pretty aggressive contact-tracing measures, i.e. tracing the way a person who's infected may have infected others in the past.
+
+
+
+
+
+
+
+
+
+
+Leong Hoe Nam: Singapore has a huge team of contact tracers and they make use of all resources, including the police. And if you realize it, everywhere we go, we do leave a digital signature, be it from the cash we draw, or the use of the ATM card or the credit card. It leaves digital signatures all around.Now with all this information, we actually try to track and find out where the person has gone. I think the easiest way to appreciate the problem of contact tracing is for all listeners to think of what has happened in the last five days. What did you do? Where did you go? Who did you meet? Chances of good recollection is absolutely miserable. And I think at most we can remember 30% to 40% of the places we've been to. But with digital signatures you can actually jolt the memory and get people to try to remember more.
+
+
+
+
+
+Marco Werman: It's all very intriguing from a technological point of view. But knowing how to zero in on citizens, thanks in part to their digital footprints — have there been privacy issues raised in Singapore around this?
+
+Leong Hoe Nam: Most people have participated in this willingly. They know whatever information they can give could end up saving lives.
+
+ 
+
+
+
+
+
+
+Marco Werman: So just perhaps as a sign of just how engaged Singapore citizens are, [I'm looking at] these WhatsApp messages from the Singapore government that anyone can subscribe to. It gives the latest details and updates of coronavirus cases, where they were located, what's being done. There is a WhatsApp message I'm looking at that's dispelling a rumor that schools are closed. "No," it says, "schools are open." How many people do you think of subscribe to this message service?
+
+
+
+
+
+
+
+
+
+
+Leong Hoe Nam: I'm very sure hundreds of thousands, if not 1 to 2 million Singaporeans would have subscribed to this free WhatsApp messaging. It is very important that we get the right information to the people.As you are fully aware — fake news — there are people who troll hoaxes and there are people who are out to send confusion to the crowd, they are so prevalent in the current society. This WhatsApp messaging will actually dispel all rumors and all hoaxes very quickly, giving the people confidence in living day by day.
+
+ 
+
+
+
+
+
+
+Marco Werman: So a country like yours, Singapore can be as organized as it is, but COVID-19, it seems, can still outsmart us. There was a cluster of cases in Singapore a few weeks ago traced to a hotel meeting. That exposed travellers, who then went home to places like France and the UK. Does that give you pause, doctor, about the limits we humans actually have over disease?
+
+Leong Hoe Nam: Absolutely. Good contact tracing is defined as 80% traced, but I don't think we're hitting the figures. We are hitting at best 40 to 60%. And because of that, we are failing to catch every single case.It tells us that our contact tracing is only as good as the weakest link, which is our own individual personal recollection. In order to outsmart the virus, we have to take it one step higher. Can technology help us in this?
+
+ 
+
+
+
+
+
+
+Marco Werman: And what would you want to help out with that?
+
+
+
+
+
+
+
+
+
+
+Leong Hoe Nam: Could someone actually come up with an app where you do a trace on where you've been to? This will help to recollect where are the places you visited and the people you come across. The next thing actually is something more technologically advanced.What equipment do we have that senses the proximity of another equipment that's about 3 meters [10 feet]. It would be the Bluetooth technology. Can we actually use Bluetooth to communicate with other phones and thereby realize who is in close proximity with me, who has come within three meters of me? And for how long? Can Bluetooth be the answer to overturn the virus? After all, significant contact is anything that is less than 2 meters [10 feet].
+
+
+
+
+
+Marco Werman: There is news today out of Singapore of an antibody test that's being developed. Explain how that would work and how would help?
+
+Leong Hoe Nam: We do know that there are many people who do fall sick with the coronavirus and thereafter recover well. They may not have seen a doctor and may not have done the current tests of choice to diagnose people. If you've missed that opportunity to do a test, you miss the opportunity in diagnosing a person with the condition.
+
+ 
+
+
+
+
+
+
+Marco Werman: So essentially these antibody tests would identify people who've been infected in the past who may not have been showing symptoms. And that might help you understand exactly who else they might have been in contact with?
+
+
+
+
+
+
+
+
+
+
+Leong Hoe Nam: Yes, would be correct. With this clue, we linked up two clusters together using an antibody test as a mark.
+
+
+
+
+
+Marco Werman: I have to ask you about this, Dr. Leong — you apparently had SARS. Correct?
+
+Leong Hoe Nam: Yes, I've had SARS. I'm a survivor.
+
+ 
+
+
+
+
+
+
+Marco Werman: And you were in New York City at the time. You got sick there and then got on a plane. Did you know you were sick with SARS when you did that?
+
+
+
+
+
+
+
+
+
+
+Leong Hoe Nam: No idea. In fact, I felt very well when I boarded the plane. At that point in time, the concept, the idea of SARS wasn't even coined. We had no idea what was happening back at home. We didn't have the internet and social media was non-existent.
+
+ 
+
+
+
+
+
+
+Marco Werman: What can you tell us about that experience and what did you learn about just being sick in a time of fear?
+
+Leong Hoe Nam: It was terrifying for me because I was traveling with my pregnant wife, as well as my mother-in-law. We had very little experience to rely on for this illness.Would I die? Would I live? Or would I even infect my family back at home, the ones whom I met before I traveled? All these fears were hounding me. But I was accorded the best care [in Germany]. For that, I'm always eternally grateful.This interview has been edited and condensed for clarity.
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+ Read the original article on PRI's The World. Copyright 2020.
+ 
+ 
+ Follow PRI's The World on Twitter.

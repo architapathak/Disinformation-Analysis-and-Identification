@@ -1,0 +1,15 @@
+The UK security and intelligence organization GCHQ has been handed extra powers to access information from the NHS IT systems during the Coronavirus pandemic.
+
+According to a statement, Health Secretary Matt Hancock bypassed parliamentary scrutiny to allow the spy agency to obtain information from public-health IT systems until the end of 2020.
+
+RT reports: The National Health Service (NHS) has been instructed by Hancock to hand over information to Government Communications Headquarters (GCHQ), granting the spy agency powers it did not have previously, under the Computer Misuse Act 1990.
+
+Officials have justified the decision, saying it was taken to bolster the NHS’s cyber defenses. It ostensibly means that GCHQ now has powers to order the NHS to disclose any information concerning “the security” of its networks and information systems.
+
+The latest development, authorized by Hancock’s department earlier this month, is the latest sign of GCHQ gaining more influence during the Covid-19 crisis. The agency is already advising NHSX, the unit driving the digital transformation of the public healthcare system, on the creation of its new coronavirus contact-tracing app.
+
+A spokesman for the National Cyber Security Centre, a subsidiary of GCHQ, insisted that the new directions “do not seek to authorize” access to patient data. Whether that will ease the worries of those concerned about the apparent increase in the UK government’s surveillance measures is debatable.
+
+Earlier this week, a spokesman for British PM Boris Johnson confirmed that the controversial NHS contact-tracing app will be a “key part” of the government’s Covid-19 surveillance program going forward.
+
+The app, which has been designed to notify people if they were in close contact with a person who tested positive for the coronavirus, could be available within weeks. However, privacy campaigners have warned it could see the public “coerced” into sharing personal data about their movements.

@@ -1,0 +1,15 @@
+Mark Zuckerberg published a Facebook post on Tuesday about the company's response to the novel coronavirus outbreak.Zuckerberg said that a tool developed by his philanthropic organization together with the Gates Foundation has helped researchers in Cambodia sequence the novel coronavirus' genome.Sequencing the genome of a virus allows researchers to study its origins and how it might be stopped.Visit Business Insider's homepage for more stories.
+
+
+Facebook CEO Mark Zuckerberg said his philanthropic organization, the Chan Zuckerberg Initiative, has helped unlock a piece of research which may help in the fight against the coronavirus, in partnership with the Gates Foundation.In a Facebook post published late Tuesday, Zuckerberg detailed what measures Facebook is taking to help stop the spread of the novel coronavirus, such as offering free ad space to the World Health Organisation (WHO) and keeping an eye out for coronavirus-related misinformation.He added: "Through a partnership between our philanthropy and the Gates Foundation, researchers in Cambodia were able to sequence the full genome of the virus that causes COVID-19 in days, making it much easier and faster for them to identify if people had the virus."The team created a new public version of the IDSeq tool so scientists everywhere can study the full genome within the broader context of coronavirus sequences uploaded around the world," Zuckerberg wrote.The IDSeq tool is a pathogen-detection tool first unveiled by the Chan Zuckerberg Initiative in 2018 in partnership with the Gates Foundation.
+
+
+Neither the CZI nor the Gates Foundation were immediately available for comment when contacted by Business Insider.
+
+
+
+
+
+
+
+Sequencing the genome for the novel coronavirus allows researchers to study its origins, what other diseases it's related to, and how it might be stopped.The Cambodian researchers referred to in the Zuckerberg post are far from the only scientists to sequence the genome for COVID-19, since the first sequence was produced by Chinese researchers on January 10.According to Zuckerberg, Facebook itself is supplying data for coronavirus researchers. "Researchers are already using aggregated and anonymized Facebook data — including mobility data and population density maps — to better understand how the virus is spreading," he wrote.According to the WHO, there are 93,062 confirmed coronavirus cases globally across 76 countries, and the death toll has climbed above 3,000.

@@ -1,0 +1,29 @@
+Apple is rejecting all coronavirus-related apps except those from official health organizations and governments, CNBC reported on Thursday.Apple is one of several tech companies seeking to combat misinformation on their platforms as the outbreak continues to spread. App Store reviewers told developers that apps offering medical information must come directly from a "recognized institution," according to the report.However, as of Friday morning, a search of "coronavirus" on the App Store still turns up some dubious results.Visit Business Insider's homepage for more stories.
+
+
+As the coronavirus outbreak continues to spread, tech companies are faced with policing their platforms for potentially dangerous misinformation.Apple is no exception, and the company is reportedly taking a particularly rigid approach to policing its App Store: No apps related to coronavirus are being allowed through, according to a new CNBC report, unless they are published by a "recognized institution." Speaking with CNBC, several unnamed developers said they had their app submissions rejected for not fitting the criteria.One developer, Zachary Shakked, took to Twitter with his story:—Zachary Shakked (@zacharyshakked) March 4, 2020Though Shakked's app appears to pull information from government sources, and he's published successfully to Apple's storefront before, he said his app was rejected due to the more stringent guidelines.
+
+
+In the screenshot he posted, Apple cited App Store guidelines for not publishing his app. "The seller and company names associated with your app do not reflect a recognized institution, such as a governmental entity, hospital, insurance company, non-governmental organization, or university," the response said. Though developers of new apps are being rejected, a search of the App Store for the word "coronavirus" on Friday morning turned up several results that were clearly outside of Apple's guidelines.
+
+
+
+
+
+
+
+One app promises to teach people how to wash their hands, while another offers a chat forum for people to talk about the outbreak, and another promises to track the outbreak's spread. Other search terms, such as "coronavirus diagnosis," returned no results.Apple did not respond to multiple requests for comment.
+
+
+
+
+
+
+
+ Featured Digital Health Articles:
+ - Telehealth Industry: Benefits, Services & Examples
+ - Value-Based Care Model: Pay-for-Performance Healthcare
+ - Senior Care & Assisted Living Market Trends
+ - Smart Medical Devices: Wearable Tech in Healthcare
+ - AI in Healthcare
+ - Remote Patient Monitoring Industry: Devices & Market Trends
