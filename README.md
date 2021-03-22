@@ -1,5 +1,5 @@
 # Disinformation-Analysis-and-Identification
-Repository for data and code of the paper 'Disinformation - Identification and Analysis' : Winner of Disinformation Challenge at SBP-BRiMS 2020.
+Repository for data and code for the paper 'Disinformation - Identification and Analysis' : Winner of Disinformation Challenge at SBP-BRiMS 2020.
 
 ## Disinformation articles on the US Elections 2016
 Articles are extracted from the following sources:
